@@ -3,22 +3,16 @@
 
 <br>
 <div style ="display:flex;" align="center">
-  <img src="https://i.pinimg.com/enabled_lo/1200x/b9/08/86/b90886beff7a7664af28e02792674ce7.jpg.jpg" style="width:500px"/>
+  <img src="https://i.pinimg.com/enabled_lo/564x/ac/ef/61/acef6166a9e9b54f85a7aaba345e448a.jpg" style="width:500px"/>
 </div>
 
 ### <div align="center">Estudio Ingeniería en Software en la Escuela Politécnica Nacional, Ecuador</div>
 
-- 🎮 Juego **Valorant** en mi tiempo libre.
 - 📚 Soy autodidacta, siempre buscando aprender cosas nuevas.
 - 🌱 Estoy aprendiendo **ReactJS** y **NodeJS** para mejorar mis habilidades en desarrollo web.
 - ❓ Puedes contactarme a través de [mi correo electrónico](mailto:erick.spiner123@gmail.com).
-- ⚡ Dato curioso: Me encanta resolver acertijos y desafíos de lógica.
 
-### Cosas interesantes sobre mí:
-- 🎯 Disfruto de los juegos de estrategia, que me ayudan a mejorar mi pensamiento crítico.
-- 🌐 Tengo interés en el desarrollo de aplicaciones web y cómo estas pueden impactar positivamente la vida de las personas.
-- 📖 Aparte de la programación, me apasiona leer libros de ciencia ficción y tecnología.
-- 🤖 Estoy fascinado por la inteligencia artificial y cómo está moldeando el futuro de la tecnología.
+
 
 
 <br/>  
