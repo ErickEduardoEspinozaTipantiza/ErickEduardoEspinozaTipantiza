@@ -3,7 +3,7 @@
 
 <br>
 <div style ="display:flex;" align="center">
-  <img src="https://i.pinimg.com/564x/4f/6e/3b/4f6e3b33e80acd2fee84d9ac770607f3.jpg" style="width:500px"/>
+  <img src="https://i.pinimg.com/originals/5d/75/8f/5d758f8778e039a171942a1993334d50.gif.gif" style="width:500px"/>
 </div>
 
 ### <div align="center">Estudio Ingeniería en Software en la Escuela Politécnica Nacional, Ecuador</div>
