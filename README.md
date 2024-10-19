@@ -3,10 +3,10 @@
 
 <br>
 <div style ="display:flex;" align="center">
-  <img src="https://i.pinimg.com/enabled_lo/564x/ac/ef/61/acef6166a9e9b54f85a7aaba345e448a.jpg" style="width:500px"/>
+  <img src="https://i.pinimg.com/enabled_lo/564x/ac/ef/61/acef6166a9e9b54f85a7aaba345e448a.jpg" style="width:800px"/>
 </div>
 
-### <div align="center">Estudio Ingeniería en Software en la Escuela Politécnica Nacional, Ecuador</div>
+### <div align="center">Estudio Ingeniería en Software </div>
 
 - 📚 Soy autodidacta, siempre buscando aprender cosas nuevas.
 - 🌱 Estoy aprendiendo **ReactJS** y **NodeJS** para mejorar mis habilidades en desarrollo web.
@@ -78,7 +78,7 @@
 
 ## Connect with me
 <div align="center">
-    <a href="https://github.com/ErickEspinoza88" target="_blank">
+    <a href="https://github.com/ErickEduardoEspinozaTipantiza" target="_blank">
         <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="github" style="margin-bottom: 5px;" />
     </a>
     <a href="" target="_blank">
